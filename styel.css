@@ -1,0 +1,21 @@
+.bgim1
+{
+    background-image: url('Images/2.png'), linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(7, 0, 0, 0.2));
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .9;
+}
+.bgim2
+{
+    background-image: url('Images/3.png'), linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(7, 0, 0, 0.2));
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .9;
+}
+.bgim3
+{
+    background-image: url('Images/4.png'), linear-gradient(45deg, rgba(0, 0, 0, 0.8), rgba(7, 0, 0, 0.2));
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: .9;
+}
